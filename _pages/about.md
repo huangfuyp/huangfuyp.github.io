@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+I am currently a Master’s student in Mechanical Engineering at the University of California, Los Angeles (UCLA), with research interests in robotics, control, and embodied AI. I received my B.S. in Robotics Engineering from Beijing University of Technology (BJUT) in 2024, and spent my senior year as an exchange student at the National University of Singapore (Suzhou) Research Institute.
+During my previous studies, I have worked on exoskeleton control, quadruped robot path planning, and tactile sensor calibration.
+My broader research interests span physical human-robot interaction(pHRI), adaptive control, and robot perception, with the goal of creating robotic systems that can safely and reliably share the same workspace with humans.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 A data-driven personal website
 ======
